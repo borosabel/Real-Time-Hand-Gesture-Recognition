@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ac4a710-6ea3-4ca4-8856-466a70c49abc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1qWD7ffpZPZyuG5smsTEvjSL5VX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/saved_images" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/saved_images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.convert_to_pt">
+    <configuration name="HandTrackingMinimum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyCharm-mediapipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingMinimum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyCharm-mediapipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/pyvenv.cfg" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convert_to_pt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm-mediapipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convert_to_pt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyvenv.cfg" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PyCharm-mediapipe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/pyvenv.cfg" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HandTrackingMinimum" />
+      <item itemvalue="Python.pyvenv.cfg" />
+      <item itemvalue="Python.convert_to_pt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.convert_to_pt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ac4a710-6ea3-4ca4-8856-466a70c49abc" name="Default Changelist" comment="" />
+      <created>1617186286677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617186286677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1379" y="286" width="1071" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619163364975">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state x="1379" y="286" width="1071" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1619163364975" />
+    <state x="1710" y="543" key="FileChooserDialogImpl" timestamp="1619163247957">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state x="1710" y="543" key="FileChooserDialogImpl/0.25.2560.1338@0.25.2560.1338" timestamp="1619163247957" />
+    <state width="1290" height="255" key="GridCell.Tab.0.bottom" timestamp="1621892513143">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1081" height="132" key="GridCell.Tab.0.bottom/0.25.1440.798@0.25.1440.798" timestamp="1621862661306" />
+    <state width="1290" height="255" key="GridCell.Tab.0.bottom/0.25.2560.1338@0.25.2560.1338" timestamp="1621892513143" />
+    <state width="1290" height="255" key="GridCell.Tab.0.center" timestamp="1621892513142">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1081" height="132" key="GridCell.Tab.0.center/0.25.1440.798@0.25.1440.798" timestamp="1621862661305" />
+    <state width="1290" height="255" key="GridCell.Tab.0.center/0.25.2560.1338@0.25.2560.1338" timestamp="1621892513142" />
+    <state width="1290" height="255" key="GridCell.Tab.0.left" timestamp="1621892513141">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1081" height="132" key="GridCell.Tab.0.left/0.25.1440.798@0.25.1440.798" timestamp="1621862661305" />
+    <state width="1290" height="255" key="GridCell.Tab.0.left/0.25.2560.1338@0.25.2560.1338" timestamp="1621892513141" />
+    <state width="1290" height="255" key="GridCell.Tab.0.right" timestamp="1621892513142">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1081" height="132" key="GridCell.Tab.0.right/0.25.1440.798@0.25.1440.798" timestamp="1621862661306" />
+    <state width="1290" height="255" key="GridCell.Tab.0.right/0.25.2560.1338@0.25.2560.1338" timestamp="1621892513142" />
+    <state width="1947" height="447" key="GridCell.Tab.1.bottom" timestamp="1617307381572">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1947" height="447" key="GridCell.Tab.1.bottom/0.25.2560.1338@0.25.2560.1338" timestamp="1617307381572" />
+    <state width="1947" height="447" key="GridCell.Tab.1.center" timestamp="1617307381572">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1947" height="447" key="GridCell.Tab.1.center/0.25.2560.1338@0.25.2560.1338" timestamp="1617307381572" />
+    <state width="1947" height="447" key="GridCell.Tab.1.left" timestamp="1617307381572">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1947" height="447" key="GridCell.Tab.1.left/0.25.2560.1338@0.25.2560.1338" timestamp="1617307381572" />
+    <state width="1947" height="447" key="GridCell.Tab.1.right" timestamp="1617307381572">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state width="1947" height="447" key="GridCell.Tab.1.right/0.25.2560.1338@0.25.2560.1338" timestamp="1617307381572" />
+    <state x="285" y="133" key="SettingsEditor" timestamp="1621892164712">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state x="458" y="95" key="SettingsEditor/0.25.1440.798@0.25.1440.798" timestamp="1619517358646" />
+    <state x="285" y="133" key="SettingsEditor/0.25.2560.1338@0.25.2560.1338" timestamp="1621892164712" />
+    <state x="336" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1621890926480">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state x="189" y="206" key="com.intellij.ide.util.TipDialog/0.25.1440.798@0.25.1440.798" timestamp="1619515161892" />
+    <state x="336" y="328" key="com.intellij.ide.util.TipDialog/0.25.2560.1338@0.25.2560.1338" timestamp="1621890926480" />
+    <state x="1671" y="339" width="673" height="708" key="find.popup" timestamp="1620749368699">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state x="1671" y="339" width="673" height="708" key="find.popup/0.25.2560.1338@0.25.2560.1338" timestamp="1620749368699" />
+    <state x="875" y="514" width="670" height="676" key="search.everywhere.popup" timestamp="1618349369909">
+      <screen x="0" y="25" width="2560" height="1338" />
+    </state>
+    <state x="875" y="514" width="670" height="676" key="search.everywhere.popup/0.25.2560.1338@0.25.2560.1338" timestamp="1618349369909" />
+  </component>
+</project>
